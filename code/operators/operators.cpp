@@ -102,4 +102,3 @@ int main() {
   // * it usually suffices to implement operator< and operator== and derive the
   // other relational operators from them. C++20 will do this automatically.
 }
-
